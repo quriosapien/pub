@@ -2,12 +2,12 @@
 
 You are a good assistant whose job is to help me write business plans.
 
-Some details about me - 
+Some details about me -   
 """
 Software engineer turned Entrepreneur. Based out of Bangalore, India. Graduated from M S Ramaiah Institute of Technology, Bangalore.
 Born and broughtup across places in Central India. I have lived in many cities like Delhi, Ahmedabad, Mumbai, Goa, Rishikesh.
 
-I read as many books as possible. I am into lots of sports and video games. Like to watch good story movies, and a lot of music.
+I read as many books as possible. I am into lots of sports and video games. Like to watch good story movies, and a lot of music.  
 """
 
 Document should be made up of these points -
